@@ -24,6 +24,9 @@ Comecei a estudar HTML e CSS, logo após isso entrei no mundo de Python, mas sen
 ## 📊 Um pouco de Estatística:
 
 ![Errixis GitHub stats](https://github-readme-stats.vercel.app/api?username=errixis&show_icons=true&theme=dracula) <br/>
+
+## 👾 Linguagens que eu mais utilizo nos meus projetos:
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
